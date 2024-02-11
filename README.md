@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shahin
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning artificial intelligence and machine learning
 - 📫 How to reach me shahinrizwana2003@gmail.com
 
